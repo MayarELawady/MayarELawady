@@ -3,7 +3,22 @@
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200" height="200" />
 </div>
 
-<div id="badges" align="center">
+<h2 align="center">
+  hey there, I’m Mayar ELawady
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+<h4 align="center">
+ Data management student at ITI - Information Technology Institute
+</h4>
+
+
+- 👀 I’m interested in Big Data Engineering
+- 🌱 I’m currently learning more about Big Data Tools like Spark, Kafka, Oozie and impala
+- 💞️ I’m looking to a position in a highly reputable company to improve my 
+data skills, gain new experiences, explore newareas of work and applying solid knowledge into real-life applications and projects.
+
+### Connect with me:
+<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,16 +27,6 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
-<h2 align="center">
-  hey there, I’m Mayar ELawady
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
-
-- 👀 I’m interested in Big Data Engineering
-- 🌱 I’m currently learning more about Big Data Tools like Spark, Kafka, Oozie and impala
-- 💞️ I’m looking to a position in a highly reputable company to improve my 
-data skills, gain new experiences, explore newareas of work and applying solid knowledge into real-life applications and projects.
 
 ---
 
