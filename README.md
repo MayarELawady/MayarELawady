@@ -41,6 +41,8 @@ data skills, gain new experiences, explore newareas of work and applying solid k
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6T5NE6oM11k_UcSOw1cxw-UJ6yCNw-FVkBmsY1RAXYt2ZefXrJa3XrTVdKdiHghBeT0&usqp=CAU" title="Power Bi" alt="Power Bi" width="45" height="45"/>&nbsp;
   <img src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" title="Tableau" alt="Tableau" width="45" height="45"/>&nbsp;
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2019/11/informatica-vector-logo.png" title="Infromatica" alt="Informatica" width="45" height="45"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
