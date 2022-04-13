@@ -13,7 +13,7 @@
 
 
 - 👀 I’m interested in Big Data Engineering
-- 🌱 I’m currently learning more about Big Data Tools like Spark, Kafka, Oozie and impala
+- 🌱 I’m currently learning more about Big Data Tools( hdfs - yarn - Spark)
 - 💞️ I’m looking to a position in a highly reputable company to improve my 
 data skills, gain new experiences, explore newareas of work and applying solid knowledge into real-life applications and projects.
 
