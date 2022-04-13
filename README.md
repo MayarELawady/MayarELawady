@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">
-  hey there, I’m Mayar ELawady
+  Hey there, I’m Mayar ELawady
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 <h4 align="center">
