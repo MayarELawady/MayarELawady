@@ -19,7 +19,7 @@ data skills, gain new experiences, explore newareas of work and applying solid k
 
 ### Connect with me:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/mayar-elawady/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
